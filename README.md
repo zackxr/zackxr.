@@ -55,7 +55,7 @@
   
 - 💬 Ask me about **any information related to the field of programming.**
 
-- 📫 How to reach me **haythamhammioui16@gmail.com**
+- 📫 How to reach me **soufianmaksiss@gmail.com**
 
 ###
 
@@ -72,11 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
