@@ -3,8 +3,8 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48F700FF&height=120&section=header" />
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48F700&center=true&vCenter=true&width=435&lines=Hi+i'm+Soufian;I'm+from+Morroco;I'm+a+It+Student;Be%2BWelcome!%2B%E3%83%84" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48F700&center=true&vCenter=true&width=435&lines=Hi+i'm+Soufian;I'm+from+Morroco;I'm+a+It+Student;Be+Welcome!+%E3%83%84" alt="Typing SVG" /></a>
 
 
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
