@@ -17,16 +17,16 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/haytham-hammioui09/" target="_blank">
+  <a href="linkedin lnk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Haytham_Hm8?s=09" target="_blank">
+  <a href="twiter acc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/haytham_hm8" target="_blank">
+  <a href="instagram link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/qr/WC7IOH7NFMPJF1" target="_blank">
+  <a href="whatsap acc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -52,7 +52,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 
 - 🌱 I’m currently learning **C & C++ programming languages**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/haytham-hammioui)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zackxr)
   
 - 💬 Ask me about **any information related to the field of programming.**
 
