@@ -41,7 +41,7 @@
 
 <p align="center">
  <a href="https://profile.intra.42.fr/users/smaksiss/">
-    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 1.94-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 1.89-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
 
@@ -86,7 +86,7 @@
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackxr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 
