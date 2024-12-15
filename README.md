@@ -86,14 +86,11 @@
 <b>My GitHub Stats</b>
 
 <div align="center">
-<a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 
 
-
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48F700FF&height=120&section=footer" />
 </a>
